@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Godwin,a passionate Software Engineering student.
 
--🌱 Currently diving into AI and Machine Learning as I build my expertise in this field.
+- 🌱 Currently diving into AI and Machine Learning as I build my expertise in this field.
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning how to build AI models
 - I am Now building end to End systems with Django In The Backend
