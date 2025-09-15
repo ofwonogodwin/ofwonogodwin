@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Godwin,a passionate Software Engineering student.
+## Hi there 👋 I'm Godwin Ofwono,a passionate Software Engineering student.
 - 🌱 I am a Campus Tech Club Lead at Uganda Technology And Management University.
 - 🌱 Currently diving into AI and Machine Learning as I build my expertise in this field.
 - 🔭 I’m currently working on Machine Learning Models
