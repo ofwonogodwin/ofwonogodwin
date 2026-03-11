@@ -10,7 +10,7 @@
 - I also love teaching Tech Communities What I have learnt and know, I love being inspired and inspiring others.
 - 🐧 Passionate Ubuntu Linux user, a platform that keeps me flexible and efficient.
 - 📫 How to reach me: godwinofwono933@gmail.com
-- ⚡ Fun fact: I love Travels, mostly By AIR.
+- ⚡ Fun fact: I love Travels, mostly By AIR plus I love food
 - 💡 Always learning, innovating, and collaborating to make a difference in the tech community.
 -Let's connect and create!
 
